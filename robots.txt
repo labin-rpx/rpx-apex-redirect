@@ -1,4 +1,68 @@
+# RPX Inc. (주식회사 알피엑스)
+# 검색엔진과 AI 어시스턴트·AI 검색 크롤러를 모두 환영합니다.
+# AI용 요약: https://www.rpx.co.kr/llms.txt
+
 User-agent: *
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: Daum
 Allow: /
 
 Sitemap: https://www.rpx.co.kr/sitemap.xml
